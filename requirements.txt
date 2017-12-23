@@ -1,0 +1,10 @@
+pylint
+pytest
+pytest-cov
+click
+jupyter
+boto3
+slackclient
+pandas
+plotly
+cufflinks
